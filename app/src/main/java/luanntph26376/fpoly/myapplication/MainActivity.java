@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         /// anhdat3
         // ok chưa
         getActionBar();
+        // đã fix
     }
 }
